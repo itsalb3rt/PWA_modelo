@@ -13,15 +13,27 @@ Descarga este repositorio y pruébalo en un servidor local o remoto *(de ser rem
 
 [![](https://i.imgur.com/CeRx4Qs.png)](https://i.imgur.com/CeRx4Qs.png)
 
-**Autorizar la instalación**
-
-[![](https://i.imgur.com/MDiZ2wB.png)](https://i.imgur.com/MDiZ2wB.png)
 
 **Listo!**
 
 [![](https://i.imgur.com/k8qpxTY.png)](https://i.imgur.com/k8qpxTY.png)
 
-**Así tienes una aplicación web instalable tanto en Windows, Mac, Android o IOS;**
+Así tienes una aplicación web instalable tanto en **Windows, Mac, Android o IOS**;
 
 [![](https://i.imgur.com/B6s1BW0.png)](https://i.imgur.com/B6s1BW0.png)
 
+En tu teléfono esta saldrá como una app más en tu cajón de aplicaciones, la puedes probar desde el siguiente enlace seguro **[https://itsalb3rt.github.io/PWA_modelo/](https://itsalb3rt.github.io/PWA_modelo/ "https://itsalb3rt.github.io/PWA_modelo/")**
+
+<img src="https://i.imgur.com/Wy7vKHc.png" alt="drawing" width="300"/>
+
+---
+
+<img src="https://i.imgur.com/Znm9vuC.png" alt="drawing" width="300"/>
+
+---
+
+<img src="https://i.imgur.com/ZkGrzkN.png" alt="drawing" width="300"/>
+
+---
+
+**Cualquier sugerencia siempre es bien recibida.**
