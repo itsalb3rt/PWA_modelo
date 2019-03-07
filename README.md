@@ -22,7 +22,11 @@ Así tienes una aplicación web instalable tanto en **Windows, Mac, Android o IO
 
 [![](https://i.imgur.com/B6s1BW0.png)](https://i.imgur.com/B6s1BW0.png)
 
-En tu teléfono esta saldrá como una app más en tu cajón de aplicaciones, la puedes probar desde el siguiente enlace seguro **[https://itsalb3rt.github.io/PWA_modelo/](https://itsalb3rt.github.io/PWA_modelo/ "https://itsalb3rt.github.io/PWA_modelo/")**
+# Probar;
+
+En tu teléfono esta saldrá como una app más en tu cajón de aplicaciones, la puedes probar desde el siguiente enlace seguro;
+
+**[https://itsalb3rt.github.io/PWA_modelo/](https://itsalb3rt.github.io/PWA_modelo/ "https://itsalb3rt.github.io/PWA_modelo/")**
 
 <img src="https://i.imgur.com/Wy7vKHc.png" alt="drawing" width="300"/>
 
