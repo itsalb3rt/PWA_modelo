@@ -3,6 +3,7 @@
 const CACHE_NAME = 'v1_pwa_app_cache',
   urlsToCache = [
     './',
+    'index.html',
     'css/style.css',
     'js/script.js',
     'img/mainlogo.png',
