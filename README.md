@@ -1,4 +1,8 @@
-Creación de **Progressive Web Apps (PWA)** con este modelo y un mínimo de esfuerzo.
+Convierte tu web tradicional en una PWA **Progressive Web Apps (PWA)** con este modelo y un mínimo de esfuerzo.
+
+Las aplicaciones web progresivas comienzan con un sitio / aplicación web tradicional y se mejoran progresivamente con características modernas. 
+Cuando los sitios están seguros(**HTTPS**), pueden aprovechar los **ServiceWorkers** para proporcionar soporte fuera de línea (**offline**), las **notificaciones Push** pueden ayudar a volver a atraer a los usuarios, y los **Manifests** de las aplicaciones web les permiten a los usuarios instalar PWA junto con las aplicaciones nativas.
+
 
 **Estructura básica;**
 
