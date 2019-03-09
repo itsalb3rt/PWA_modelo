@@ -53,6 +53,8 @@ const CACHE_NAME = 'v1_pwa_app_cache',
 
 Este archivo posee etiquetas **meta** que ayudan con la accesibilidad para la aplicación por lo que te recomiendo trabajar sobre el código de esta, copia el mismo en tu index y estará todo listo.
 
+---
+
 **Probar;**
 
 Descarga este repositorio y pruébalo en un servidor local o remoto *(de ser remoto debe tener certificado SSL ya que las PWA solo funcionan por HTTPS o en localhost)*
