@@ -3,11 +3,55 @@ Convierte tu web tradicional en una PWA **Progressive Web Apps (PWA)** con este 
 Las aplicaciones web progresivas comienzan con un sitio / aplicación web tradicional y se mejoran progresivamente con características modernas. 
 Cuando los sitios están seguros(**HTTPS**), pueden aprovechar los **ServiceWorkers** para proporcionar soporte fuera de línea (**offline**), las **notificaciones Push** pueden ayudar a volver a atraer a los usuarios, y los **Manifests** de las aplicaciones web les permiten a los usuarios instalar PWA junto con las aplicaciones nativas.
 
+---
 
 **Estructura básica;**
 
 
 [![](https://i.imgur.com/1mMKfVJ.png)](https://i.imgur.com/1mMKfVJ.png)
+
+**Configura tu PWA**
+
+---
+
+`manifest.json`
+
+
+```json
+{
+  "name": "PWA Name App",
+  "short_name": "PWANameApp",
+  "description": "Esta sería la descripción de mi PWA",
+  "background_color": "#2B2B2B",
+  "theme_color": "#2196F3",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "index.html",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": []
+  }
+```
+`sw.js`
+
+**CACHE_NAME** es el nombre con el que el navegador almacenara la cache de tu app
+
+**urlsToCache** son todos los recursos que deseas tu aplicación ejecute offline, archivos js, css, imágenes, secciones de tu app, etc…
+
+```javascript
+const CACHE_NAME = 'v1_pwa_app_cache',
+  urlsToCache = [
+    './',
+    'index.html',
+    'css/style.css',
+    'js/script.js',
+    'img/mainlogo.png',
+    'img/favicon.png'
+  ]
+```
+`index.html`
+
+Este archivo posee etiquetas **meta** que ayudan con la accesibilidad para la aplicación por lo que te recomiendo trabajar sobre el código de esta, copia el mismo en tu index y estará todo listo.
 
 **Probar;**
 
